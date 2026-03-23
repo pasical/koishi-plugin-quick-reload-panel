@@ -1,0 +1,31 @@
+{
+  "name": "koishi-plugin-quick-reload-panel",
+  "version": "1.0.0",
+  "description": "Koishi console panel with quick reload, uptime display, and bot management commands",
+  "main": "lib/index.js",
+  "contributors": [
+    "Pasical <pasicalyang@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "koishi",
+    "plugin",
+    "quick-reload",
+    "uptime",
+    "console"
+  ],
+  "homepage": "https://github.com/your-username/koishi-plugin-quick-reload-panel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/koishi-plugin-quick-reload-panel.git"
+  },
+  "peerDependencies": {
+    "koishi": "^4.0.0"
+  },
+  "koishi": {
+    "description": {
+      "en": "Quick reload panel with uptime and bot management commands",
+      "zh": "快速重启面板，支持运行时间查询和机器人管理指令"
+    }
+  }
+}
