@@ -14,10 +14,10 @@
     "uptime",
     "console"
   ],
-  "homepage": "https://github.com/your-username/koishi-plugin-quick-reload-panel",
+  "homepage": "https://github.com/pasical/koishi-plugin-quick-reload-panel",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/koishi-plugin-quick-reload-panel.git"
+    "url": "git+https://github.com/pasical/koishi-plugin-quick-reload-panel.git"
   },
   "peerDependencies": {
     "koishi": "^4.0.0"
