@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-quick-reload-panel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Koishi console panel with quick reload, uptime display, and bot management commands",
   "main": "lib/index.js",
   "contributors": [
